@@ -1,0 +1,29 @@
+2016-12-22 12:38:39 - PHP Warning:  unlink(C:/xampp/htdocs/group08/system/storage/cache/cache.product.bestseller.3.0.1.15.1482410319): Permission denied in C:\xampp\htdocs\group08\system\library\cache\file.php on line 68
+2016-12-22 14:49:51 - PHP Notice:  Undefined variable: headerlayout in C:\xampp\htdocs\group08\catalog\controller\common\header.php on line 164
+2016-12-22 14:49:51 - PHP Notice:  Undefined variable: helper in C:\xampp\htdocs\group08\catalog\view\theme\pav_styleshop\template\common\header.tpl on line 14
+2016-12-22 15:59:07 - PHP Warning:  array_merge(): Argument #2 is not an array in C:\xampp\htdocs\group08\catalog\view\theme\pav_styleshop\template\common\header.tpl on line 11
+2016-12-22 18:07:14 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\group08\vqmod\vqcache\vq2-admin_controller_common_header.php on line 5
+2016-12-22 18:07:36 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\group08\vqmod\vqcache\vq2-admin_controller_common_header.php on line 5
+2016-12-23 4:26:30 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\group08\vqmod\vqcache\vq2-system_engine_loader.php on line 53
+2016-12-23 6:12:26 - PHP Notice:  Undefined index: lastname in C:\xampp\htdocs\group08\catalog\controller\account\register.php on line 360
+2016-12-23 6:12:31 - PHP Notice:  Undefined index: lastname in C:\xampp\htdocs\group08\catalog\controller\account\register.php on line 360
+2016-12-23 6:12:38 - PHP Notice:  Undefined index: lastname in C:\xampp\htdocs\group08\catalog\controller\account\register.php on line 360
+2016-12-23 6:13:25 - PHP Notice:  Undefined index: lastname in C:\xampp\htdocs\group08\catalog\model\account\customer.php on line 14
+2016-12-23 6:13:25 - PHP Notice:  Undefined index: fax in C:\xampp\htdocs\group08\catalog\model\account\customer.php on line 14
+2016-12-23 6:13:25 - PHP Notice:  Undefined index: lastname in C:\xampp\htdocs\group08\catalog\model\account\customer.php on line 18
+2016-12-23 6:13:25 - PHP Notice:  Undefined index: company in C:\xampp\htdocs\group08\catalog\model\account\customer.php on line 18
+2016-12-23 6:13:25 - PHP Notice:  Undefined index: address_2 in C:\xampp\htdocs\group08\catalog\model\account\customer.php on line 18
+2016-12-23 6:13:26 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\group08\system\library\mail.php on line 158
+2016-12-23 6:40:01 - PHP Notice:  Error: Could not load template C:/xampp/htdocs/group08/catalog/view/theme/default/template/checkout/d_quickcheckout.tpl! in C:\xampp\htdocs\group08\vqmod\vqcache\vq2-system_library_template_php.php on line 23
+2016-12-23 7:20:16 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\group08\system\library\mail.php on line 158
+2016-12-23 7:20:17 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\group08\system\library\mail.php on line 158
+2016-12-23 7:57:10 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\group08\system\library\mail.php on line 158
+2016-12-23 7:57:11 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\group08\system\library\mail.php on line 158
+2016-12-23 7:59:53 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\group08\system\library\mail.php on line 158
+2016-12-23 7:59:54 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\group08\system\library\mail.php on line 158
+2016-12-23 8:21:01 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\group08\system\library\mail.php on line 158
+2016-12-23 8:21:02 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\group08\system\library\mail.php on line 158
+2016-12-23 8:24:04 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\group08\system\library\mail.php on line 158
+2016-12-23 8:24:05 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\group08\system\library\mail.php on line 158
+2016-12-23 8:39:43 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\group08\system\library\mail.php on line 158
+2016-12-23 8:39:44 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\group08\system\library\mail.php on line 158
